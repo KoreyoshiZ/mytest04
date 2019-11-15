@@ -9,5 +9,5 @@ package com.itheima;
  * @Description: 描述:
  */
 public class User {
-
+    private String username;
 }
