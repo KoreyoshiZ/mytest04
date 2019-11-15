@@ -10,4 +10,5 @@ package com.itheima;
  */
 public class User {
     private String username;
+    private String x = "wo改了文件";
 }
