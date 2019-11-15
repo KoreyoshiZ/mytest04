@@ -11,4 +11,5 @@ package com.itheima;
 public class User {
     private String username;
     private String x = "wo耶耶耶耶改了文件";
+    private String x2 = "wo改了文件";
 }
